@@ -1,4 +1,6 @@
-# Teknologi Open Source Terbaru (TOST)
+# Alimul Hakim (5213100053) 
+
+#Teknologi Open Source Terbaru (TOST)
 TOST Merupakan mata kuliah pilihan di sistem informasi yang merupakan salah satu syarat untuk dapat
 bergabung dengan lab Infrastruktur dan Keamanan Teknologi Informasi.
 
@@ -21,11 +23,13 @@ paper form yang akan diubah menjadi berbasis data form.
 - dapat melihat list data form yang telah terisi
 
 # Installation
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Download [ODK Aggregate](https://opendatakit.org/downloads/download-info/odk-aggregate-windows-installer-exe/) dan [ODK Collect](https://opendatakit.org/downloads/download-info/odk-collect-apk/)
+2. run ODK Aggregate
+3. Ikuti Setiap Step dan Isi Server dengan IP contoh : 192.168.1.5 port : 8080
+4. pada hostname database harap di samakan dengan IP server
+5. Tunggu sampai selesai.
+
 # Support
+
+
 # License
