@@ -29,7 +29,20 @@ paper form yang akan diubah menjadi berbasis data form.
 4. pada hostname database harap di samakan dengan IP server
 5. Tunggu sampai selesai.
 
-# Support
-
+# Link Form dalam Bentuk Doc dan XML
+form dapat dilihat melalui link dibawah ini :
+- [form xml](https://github.com/arimuru/TOST-A/commit/645685a68c1c06c4e693fae5dab1e753cd850035)
+- [form doc](https://github.com/arimuru/TOST-A/commit/c9823fcdae2c754f9016d3da752ea6d89ee712bf)
 
 # License
+lisensi yang digunakan adalah [GNU GENERAL PUBLIC LICENSE](https://github.com/arimuru/TOST-A/blob/master/LICENSE)
+
+# Gambar Tampilan Form Di ODK dan Hasil di ODK
+di bawah ini adalah gambar dari hasil penelitian :
+- form yang sudah di upload
+
+![alt text](https://github.com/arimuru/TOST-A/blob/master/Images/odk.png)
+
+- hasil ODK
+
+![alt text](https://github.com/arimuru/TOST-A/blob/master/Images/odk_1.png)
